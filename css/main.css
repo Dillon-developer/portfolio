@@ -1,6 +1,6 @@
 .btn{
   display: inline-block;
-  font-family: arial, sans-serif;
+  font-family: Verdana, Geneva, Tahoma, sans-serif; 
   font-size: 16px;
   text-align: center;
   text-decoration: none;
@@ -9,15 +9,27 @@
   border-radius: 6px;
 }
 
-.btn-lets{
+.btn-lets-code{
    color: #fff;
-  background-color: #5cb85c;
-  border-color: #4cae4c;
+  background-color: #ffa32b9d;
+  border-color: #f5923677;
+  margin-right: 20px;
 }
 
+.btn-lets-code:hover{
+  background-color: #ffa32b;
+  border-color: #f59236;
+}
 
+nav{
+    text-align: center;
+    margin-top: -45px;
+    margin-left: 0px;
+}
 
+img{
 
+}
 
 
 
@@ -28,19 +40,33 @@ body{
   }
 
 h1{
-  
+  color:#fff;
+  font-size: 100px;
+  text-align: center;
+  margin-right: 150px;
+  margin-bottom: -120px;
   }
 
 h2{
-  
+  color: rgb(114, 114, 114);
+  font-size: 100px;
+  text-align: center;
+  margin-bottom: -10px;
   }
 
 h3{
-  
+  color: rgb(255, 255, 255);
+  font-size: 25px;
+  text-align: center;
+  margin-right: -110px;
+  margin-top: 0px;
 }
 
-p{
-  
+
+h5{
+  color: rgb(255, 255, 255);
+  font-size: 80px;
+  text-align: center;
+  margin-right: -550px;
+  margin-top: -140px;
 }
-
-
