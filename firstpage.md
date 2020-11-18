@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
     <title>Home Page</title>
-    <link href="style.css" rel="stylesheet" type="text/css" />
+    <link href="home-style.css" rel="stylesheet" type="text/css" />
   </head>
   
   
@@ -24,7 +24,9 @@
     <div>	    
       <!---Navigation for the First page--->  
       <nav>
-	    <a href="firstpage.md" class="btn btn-lets-code">Lets Code</a>    
+	    <a href="firstpage.md" class="btn btn-home">Home</a>
+	    <a href="about.html" class="btn btn-about">About</a>
+	    <a href="cantact.html" class="btn btn-contact">Contact</a>  
       </nav>
      <script src="script.js"></script> 
   </body>
