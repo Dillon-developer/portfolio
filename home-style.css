@@ -1,16 +1,23 @@
+
+*{
+  background-color: #ffffff;  
+}
+
+
+
 .btn{
   display: inline-block;
   font-family: Verdana, Geneva, Tahoma, sans-serif; 
-  font-size: 16px;
+  font-size: 20px;
   text-align: center;
-  text-decoration: none;
+  text-decoration: #fff;
   margin: 10px;
   padding: 6px 12px;
   border-radius: 6px;
 }
 
 .btn{
-   color: #fff;
+  color: #fff;
   background-color: #ff2b2b9d;
   border-color: #f5363677;
   margin-right: 20px;
@@ -21,41 +28,84 @@
   border-color: #f53636;
 }
 
-nav{
-    text-align: center;
-    margin-top: -45px;
-    margin-left: 0px;
+.btn-github{
+  color: #fff;
+  background-color: #0000009d;
+  border-color: #00000077;
+  margin-right: 20px;
 }
 
+.btn-github:hover{
+  background-color: #000000;
+  border-color: #000000;
+}
 
+.btn-linkedin{
+  color: #fff;
+  background-color: #0065fc9d;
+  border-color: #0044ff77;
+  margin-right: 20px;
+}
+
+.btn-linkedin:hover{
+  background-color: #0065fc;
+  border-color: #0044ff;
+}
+
+nav{
+    text-align: center;
+    margin-top: 0px;
+    margin-left: 0px;
+    
+}
+
+header{
+    background-color:#ffffff;
+}
 
 body{
-  background-color: #175db9;
-  border-bottom: #f53636;
-  border-top-color: #f53636;
+  background-color: #ffffff;
   }
 
 h1{
-  color:#fff;
+  color:rgb(0, 0, 0);
   font-size: 100px;
   text-align: center;
-  margin-right: 150px;
+  margin-right: 0px;
   margin-bottom: -120px;
   }
 
 h2{
-  color: rgb(114, 114, 114);
+  color: rgb(0, 0, 0);
   font-size: 100px;
   text-align: center;
-  margin-bottom: -10px;
+  margin-bottom: -100px;
   }
 
 h3{
-  color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
   font-size: 25px;
   text-align: center;
-  margin-right: -110px;
-  margin-top: 0px;
+  margin-right: -100px;
+  margin-top: 100px;
+}
+
+h4{
+  color: rgb(0, 0, 0);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 80px;
+  text-align: center;
+  margin-right: 0px;
+  margin-top: 200px;
+}
+
+p{
+  color: rgb(0, 0, 0);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 25px;
+  text-align: center;
+  margin-right: 0px;
+  margin-top: 200px;
 }
 
 
@@ -63,6 +113,14 @@ h5{
   color: rgb(255, 255, 255);
   font-size: 80px;
   text-align: center;
-  margin-right: -550px;
+  margin-right: -400px;
   margin-top: -140px;
 }
+p{
+    text-align: left;
+}
+
+footer{
+    margin-top: 100px;
+}
+
