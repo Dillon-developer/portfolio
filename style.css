@@ -1,3 +1,5 @@
+/*button class visual instructions*/
+
 .btn{
   display: inline-block;
   font-family: Verdana, Geneva, Tahoma, sans-serif; 
@@ -21,24 +23,19 @@
   border-color: #f59236;
 }
 
+/*commands for the button location*/
 nav{
     text-align: center;
-    margin-top: -45px;
+    margin-top: 0px;
     margin-left: 0px;
 }
-
-img{
-
-}
-
-
 
 
 body{
   background-color: #000000;
   
   }
-
+/*commands for the word "Software"*/
 h1{
   color:#fff;
   font-size: 100px;
@@ -46,14 +43,14 @@ h1{
   margin-right: 150px;
   margin-bottom: -120px;
   }
-
+/*commands for the word "Engineering;"*/
 h2{
   color: rgb(114, 114, 114);
   font-size: 100px;
   text-align: center;
   margin-bottom: -10px;
   }
-
+/*commands for the words "Design By: Dillon Lucas*/
 h3{
   color: rgb(255, 255, 255);
   font-size: 25px;
@@ -61,13 +58,3 @@ h3{
   margin-right: -110px;
   margin-top: 0px;
 }
-
-
-h5{
-  color: rgb(255, 255, 255);
-  font-size: 80px;
-  text-align: center;
-  margin-right: -550px;
-  margin-top: -140px;
-}
-
