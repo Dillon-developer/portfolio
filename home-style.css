@@ -1,10 +1,5 @@
 
-*{
-  background-color: #ffffff;  
-}
-
-
-
+/*button class visual instructions*/
 .btn{
   display: inline-block;
   font-family: Verdana, Geneva, Tahoma, sans-serif; 
@@ -27,7 +22,7 @@
   background-color: #ff2b2b;
   border-color: #f53636;
 }
-
+/*button class visual instructions for Github*/
 .btn-github{
   color: #fff;
   background-color: #0000009d;
@@ -39,7 +34,7 @@
   background-color: #000000;
   border-color: #000000;
 }
-
+/*button class visual instructions for LinkedIn*/
 .btn-linkedin{
   color: #fff;
   background-color: #0065fc9d;
@@ -51,47 +46,39 @@
   background-color: #0065fc;
   border-color: #0044ff;
 }
-
+/*button location*/
 nav{
     text-align: center;
     margin-top: 0px;
-    margin-left: 0px;
-    
+    margin-left: 0px;   
 }
-
-header{
-    background-color:#ffffff;
+/*list font size*/
+ol{
+  font-size: 25px;
 }
 
 body{
   background-color: #ffffff;
   }
-
+/*"portfolio:"*/
 h1{
-  color:rgb(0, 0, 0);
+  color:#000000;
   font-size: 100px;
   text-align: center;
   margin-right: 0px;
   margin-bottom: -120px;
   }
-
-h2{
-  color: rgb(0, 0, 0);
-  font-size: 100px;
-  text-align: center;
-  margin-bottom: -100px;
-  }
-
+/*"by Dillon"*/
 h3{
-  color: rgb(0, 0, 0);
+  color: #000000;
   font-size: 25px;
   text-align: center;
   margin-right: -100px;
   margin-top: 100px;
 }
-
+/*"Welcome"*/
 h4{
-  color: rgb(0, 0, 0);
+  color: #000000;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 80px;
   text-align: center;
@@ -100,27 +87,15 @@ h4{
 }
 
 p{
-  color: rgb(0, 0, 0);
+  color: #000000;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 25px;
-  text-align: center;
+  text-align: left;
   margin-right: 0px;
-  margin-top: 200px;
-}
-
-
-h5{
-  color: rgb(255, 255, 255);
-  font-size: 80px;
-  text-align: center;
-  margin-right: -400px;
-  margin-top: -140px;
-}
-p{
-    text-align: left;
+  margin-top: 50px;
 }
 
 footer{
     margin-top: 100px;
+    height: 0px;
 }
-
