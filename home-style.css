@@ -9,16 +9,16 @@
   border-radius: 6px;
 }
 
-.btn-home{
+.btn{
    color: #fff;
-  background-color: #ffa32b9d;
-  border-color: #f5923677;
+  background-color: #ff2b2b9d;
+  border-color: #f5363677;
   margin-right: 20px;
 }
 
-.btn-home:hover{
-  background-color: #ffa32b;
-  border-color: #f59236;
+.btn:hover{
+  background-color: #ff2b2b;
+  border-color: #f53636;
 }
 
 nav{
