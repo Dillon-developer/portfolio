@@ -9,14 +9,14 @@
   border-radius: 6px;
 }
 
-.btn-lets-code{
+.btn-home{
    color: #fff;
   background-color: #ffa32b9d;
   border-color: #f5923677;
   margin-right: 20px;
 }
 
-.btn-lets-code:hover{
+.btn-home:hover{
   background-color: #ffa32b;
   border-color: #f59236;
 }
